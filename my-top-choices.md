@@ -1,2 +1,2 @@
-# My Top Choices
+# Top Choices
 

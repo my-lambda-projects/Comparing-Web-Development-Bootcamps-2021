@@ -2,7 +2,7 @@
 
 * [General](README.md)
 * [List](list.md)
-* [My Top Choices](my-top-choices.md)
+* [Top Choices](my-top-choices.md)
 
 ## Options
 
